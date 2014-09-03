@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StrShift/StrShiftTest.cs">
+    <Files>
+      <File FileName="StrShift/StrShiftTest.cs" Line="15" Column="53" />
+      <File FileName="StrShift/StrShift.cs" Line="55" Column="3" />
+      <File FileName="MakeChange/CurrencyTest.cs" Line="26" Column="39" />
+      <File FileName="MakeChange/Currency.cs" Line="21" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MakeChange" expanded="True" />
+          <Node name="StrShift" expanded="True">
+            <Node name="StrShiftTest.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
